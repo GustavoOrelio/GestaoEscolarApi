@@ -32,7 +32,7 @@ import javax.validation.Valid;
 
 
 @RestController
-@RequestMapping("/turma")
+@RequestMapping("/gems/turma")
 //@Tag(name = "turma", description = "API para CRUD de turma")
 public class TurmaController {
 

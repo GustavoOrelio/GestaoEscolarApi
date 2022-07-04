@@ -32,7 +32,7 @@ import javax.validation.Valid;
 
 
 @RestController
-@RequestMapping("/professor")
+@RequestMapping("/gems/professor")
 //@Tag(name = "professor", description = "API para CRUD de professor")
 public class ProfessorController {
 
